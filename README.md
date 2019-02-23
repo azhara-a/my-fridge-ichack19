@@ -1,5 +1,5 @@
 # Project: MyFridge
-## Introduction
+
 ### MyFridge is a website designed to connect students from the same community to share food and recipes so as to
 1) Reduce food waste
 2) Provide a platform for students to interact and share cooked food and ingredients with others
