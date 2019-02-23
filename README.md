@@ -14,4 +14,5 @@
 ## Developers:
 Azhara Assanova, Dhivya Ravindran, Jenny Zhang, Rosemary Ng and Tina Sandu - first year CS students at Imperial College London.
 
-## MyFridge Demo: https://youtu.be/TwhhI0VZBX8
+## [MyFridge Demo](https://youtu.be/TwhhI0VZBX8)
+
