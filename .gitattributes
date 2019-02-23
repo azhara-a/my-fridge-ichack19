@@ -1,2 +1,3 @@
 Interface/index.php linguist-vendored
 db.cs linguist-vendored
+*.sql linguist-detectable=true
